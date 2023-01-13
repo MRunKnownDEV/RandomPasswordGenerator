@@ -90,12 +90,12 @@ function gnrPass(){
 function copyonclick1(){
     finalPass1.select();
     navigator.clipboard.writeText(finalPass1.value);
-    alert("Copied the text: " + finalPass1.value);
+    //alert("Copied the text: " + finalPass1.value);
 }
 function copyonclick2(){
     finalPass2.select();
     navigator.clipboard.writeText(finalPass2.value);
-    alert("Copied the text: " + finalPass2.value);
+    //alert("Copied the text: " + finalPass2.value);
     
 }
 
