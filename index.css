@@ -126,10 +126,10 @@ color: #55F991;
 }
 
 .passFnt {
-    background-color: #ddd;
+    background-color: #FFFFFF;
     border: none;
     color: black;
-    padding: 16px 32px;
+    padding: 10px 10px;
     text-align: center;
     font-size: 16px;
     margin: 4px 2px;
@@ -137,6 +137,6 @@ color: #55F991;
   }
   
   .passFnt:hover {
-    background-color: #3e8e41;
-    color: white;
+    color: #3e8e41;
+    background-color: #FFFFFF;
   }
