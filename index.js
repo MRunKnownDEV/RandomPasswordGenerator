@@ -86,12 +86,12 @@ function gnrPass(){
 function copyonclick1(){
     randomFPass.select();
     navigator.clipboard.writeText(randomFPass.value);
-    alert("Copied the text: " + randomFPass.value);
+    //alert("Copied the text: " + randomFPass.value);
 }
 function copyonclick2(){
     randomFPass2.select();
     navigator.clipboard.writeText(randomFPass2.value);
-    alert("Copied the text: " + randomFPass2.value);
+    //alert("Copied the text: " + randomFPass2.value);
     
 }
 
